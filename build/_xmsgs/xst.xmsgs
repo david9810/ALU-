@@ -5,7 +5,7 @@
      behavior or data corruption.  It is strongly advised that
      users do not edit the contents of this file. -->
 <messages>
-<msg type="error" file="HDLCompiler" num="806" delta="new" >"/home/david/Documents/DAVID/Proyectos Verilog/ALU/ALU.v" Line 7: Syntax error near &quot;<arg fmt="%s" index="1">)</arg>&quot;.
+<msg type="error" file="HDLCompiler" num="806" delta="new" >"/home/david/Documents/DAVID/Proyectos Verilog/ALU/ALU.v" Line 10: Syntax error near &quot;<arg fmt="%s" index="1">)</arg>&quot;.
 </msg>
 
 </messages>

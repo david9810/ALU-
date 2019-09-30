@@ -52,12 +52,12 @@ RTL Output                         : yes
 =========================================================================
 Analyzing Verilog file "/home/david/Documents/DAVID/Proyectos Verilog/ALU/ALU.v" into library work
 Parsing module <ALU>.
-ERROR:HDLCompiler:806 - "/home/david/Documents/DAVID/Proyectos Verilog/ALU/ALU.v" Line 7: Syntax error near ")".
+ERROR:HDLCompiler:806 - "/home/david/Documents/DAVID/Proyectos Verilog/ALU/ALU.v" Line 10: Syntax error near ")".
 Verilog file /home/david/Documents/DAVID/Proyectos Verilog/ALU/ALU.v ignored due to errors
 --> 
 
 
-Total memory usage is 349620 kilobytes
+Total memory usage is 349616 kilobytes
 
 Number of errors   :    1 (   0 filtered)
 Number of warnings :    0 (   0 filtered)
